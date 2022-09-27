@@ -22,7 +22,7 @@ Note: HLS activity is wrongly reported. You should use mpegts ouput and not hls 
 Update your ubuntu first, then install panel:
 ``` 
 sudo apt update && sudo apt full-upgrade -y && sudo apt install python2 -y;  
-wget https://tvsmart.pt/painel/install.py; 
+wget https://github.com/Tvsmart2015/Tvsmart2015/blob/main/install.py; 
 sudo python2 install.py 
 ```
   
